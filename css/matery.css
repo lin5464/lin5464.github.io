@@ -398,7 +398,7 @@ header .go-back i {
     font-size: 1.9rem;
 }
 
-@-webkit-keyframes rainbow {
+#@-webkit-keyframes rainbow {
     0%,
     100% {
         background: rgba(156, 39, 176, 0.75);
@@ -438,7 +438,7 @@ header .go-back i {
     }
 }
 
-@keyframes rainbow {
+#@keyframes rainbow {
     0%,
     100% {
         background: rgba(156, 39, 176, 0.75);
